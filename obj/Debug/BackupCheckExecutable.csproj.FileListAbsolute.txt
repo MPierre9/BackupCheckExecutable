@@ -1,0 +1,7 @@
+c:\users\mpier\documents\visual studio 2015\Projects\BackupCheckExecutable\BackupCheckExecutable\bin\Debug\BackupCheckExecutable.exe.config
+c:\users\mpier\documents\visual studio 2015\Projects\BackupCheckExecutable\BackupCheckExecutable\obj\Debug\BackupCheckExecutable.csproj.ResolveComReference.cache
+c:\users\mpier\documents\visual studio 2015\Projects\BackupCheckExecutable\BackupCheckExecutable\bin\Debug\BackupCheckExecutable.exe
+c:\users\mpier\documents\visual studio 2015\Projects\BackupCheckExecutable\BackupCheckExecutable\bin\Debug\BackupCheckExecutable.pdb
+c:\users\mpier\documents\visual studio 2015\Projects\BackupCheckExecutable\BackupCheckExecutable\obj\Debug\BackupCheckExecutable.exe
+c:\users\mpier\documents\visual studio 2015\Projects\BackupCheckExecutable\BackupCheckExecutable\obj\Debug\BackupCheckExecutable.pdb
+c:\users\mpier\documents\visual studio 2015\Projects\BackupCheckExecutable\BackupCheckExecutable\obj\Debug\BackupCheckExecutable.csprojResolveAssemblyReference.cache
